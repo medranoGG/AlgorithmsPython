@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="./icons/Idea-Dark.svg" width="48">
-    <img src="./icons/Python-Dark.svg" width="48">
+    <img src="./_icons/Idea-Dark.svg" width="48">
+    <img src="./_icons/Python-Dark.svg" width="48">
   </a>
 </p>
 
